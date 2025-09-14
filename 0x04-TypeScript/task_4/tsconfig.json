@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "../0x04-TypeScript/task_4/dist",
+    "outDir": "./dist/",
     "sourceMap": true,
     "strict": true,
     "noImplicitReturns": true,
@@ -13,6 +13,6 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "../0x04-TypeScript/task_4/js/**/*"
+    "js/**/*"
   ]
 }
